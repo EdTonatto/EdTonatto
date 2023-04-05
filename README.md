@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi there 👋, I'm Eduardo</h1>   
 
-- 🚀 Currently working: **Java, Delphi, SQL Server**  
+- 🚀 Currently working: **Java, NodeJS, SQL Server, MongoDB**  
 
-- 🌱 I’m currently learning: **NodeJS, TypeScript, Docker, PostgreSQL**  
+- 🌱 I’m currently learning: **NodeJS, TypeScript, Docker, PostgreSQL, MongoDB**  
   
 - 💡 I want to learn: **ReactJS, React Native, Flutter**  
   
