@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi there 👋, I'm Eduardo</h1>   
 
-- 🚀 Currently working: **Java, NodeJS, SQL Server, MongoDB**  
+- 🚀 Currently working: **Java, NodeJS, SQL Server, MongoDB, Redis**  
 
-- 🌱 I’m currently learning: **NodeJS, TypeScript, Docker, PostgreSQL, MongoDB**  
+- 🌱 I’m currently learning: **NodeJS, ReactJS, Docker, PostgreSQL**  
   
-- 💡 I want to learn: **ReactJS, React Native, Flutter**  
+- 💡 I want to learn: **React Native, Flutter**  
   
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
