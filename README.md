@@ -7,10 +7,10 @@
   
 - 💡 I want to learn: **React Native, Flutter**  
 
-![edtonatto's Stats](https://github-readme-stats.vercel.app/api?username=edtonatto&theme=prussian&show_icons=true&hide_border=true&count_private=true)
+![EdTonatto's Stats](https://github-readme-stats.vercel.app/api?username=EdTonatto&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 <div align="right">
-  <a href="https://instagram.com/eduardo_tonatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="eduardo_tonatto" height="25" width="25" />
-  <a href="https://twitter.com/eduardo_tonatto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="eduardo_tonatto" height="25" width="25" />
-  <a href="https://linkedin.com/in/eduardo-tonatto-9a327b171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eduardo-tonatto-9a327b171" height="25" width="25" /> 
+  <a href="https://instagram.com/eduardo_tonatto" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="eduardo_tonatto" height="25"/>
+  <a href="https://twitter.com/eduardo_tonatto" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="eduardo_tonatto" height="25"/>
+  <a href="https://linkedin.com/in/eduardo-tonatto-9a327b171" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eduardo-tonatto-9a327b171" height="25"/> 
 </div>
