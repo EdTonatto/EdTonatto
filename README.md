@@ -9,8 +9,8 @@
 
 <details> 
   <p align="center">
-    <img height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdTonatto&theme=dark" alt="edtonatto" />
-    <img height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdTonatto&theme=dark" alt="edtonatto" />
+    <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdTonatto&theme=dark" alt="edtonatto" />
+    <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdTonatto&theme=dark" alt="edtonatto" />
   </p>
 </details>
 <p align="right">
