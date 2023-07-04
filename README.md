@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋, I'm Eduardo</h1>   
+<h1 align="center">Hi, I'm Eduardo</h1>   
 
 - 🚀 Currently working: **Java, NodeJS, SQL Server, MongoDB, Redis**  
 
@@ -7,12 +7,12 @@
   
 - 💡 I want to learn: **React Native, Flutter**  
 
-<details> 
+<!-- <details> --> 
   <p align="center">
     <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EdTonatto&theme=dark" alt="edtonatto" />
     <img height="150" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=EdTonatto&theme=dark" alt="edtonatto" />
   </p>
-</details>
+<!-- </details> -->
 <p align="right">
   <a href="https://instagram.com/eduardo_tonatto" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=black" alt="eduardo_tonatto" height="25"/>
   <a href="https://twitter.com/eduardo_tonatto" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&color=black" alt="eduardo_tonatto" height="25"/>
